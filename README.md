@@ -47,9 +47,9 @@ p = Provisioned State
 
 Output:
  
-Serial       ID                                     IP
-2M26180339   07951789-db51-495e-ac25-25b50d4b440f
-MXQ451028C   66b20209-8304-4769-b2cc-8d793ece6c1c   7.160.117.64
+Serial       ID          IP
+FI4390253    fda8dhfsa
+FI4320593    asdf8F7da   1.1.1.1
 ```
 - Once ran it will create a timestamped output.csv file that can be opened with excel
 
