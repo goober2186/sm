@@ -27,12 +27,7 @@ serial3
 ./summon.sh -h <url> -t <closedstack api token> -f <path to server list>
 ./provision.sh -h <url> -t <closedstack api token> -f <path to server list> -j <template.json>
 ```
-- Example
 
-```shell
-./summon.sh -h https://closedstack.cernerasp.com -t <closedstack api token> -f ./sample_list.txt
-./provision.sh -h https://closedstack.cernerasp.com -t <closedstack api token> -f ./sample_list.txt -j httpfs.json
-```
 - Additionally you can use the options flag -o along with these options. You can use them in any order and they will follow the order you typed them when making the table.
 ```
 -o iasp
