@@ -3,8 +3,6 @@
 - To run this script you need to first install jgrep, summon, and thor gems
 
 ```shell
-gem install thor --clear-sources -s https://cernerrepos.net/rubygems-public-remote/ -v 0.19.4
-gem install httparty --source https://cernerrepos.net/rubygems-public-remote-cache/gems/httparty-0.17.3.gem
 gem install jgrep
 ```
 
