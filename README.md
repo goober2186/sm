@@ -9,7 +9,7 @@ gem install jgrep
 - Next you'll need to copy the summon script to your local machines and make it executable
 
 ```shell
-git clone https://github.cerner.com/jb035068/Summon.git
+git clone https://github.com/goober2186/sm.git
 chmod +x summon.sh
 chmod +x provision.sh
 ```
